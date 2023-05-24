@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd tests-selfmade-project-3-public/
+cd tests-selfmade-project-5-public/
 npm i
 node ./src/index.js ../
